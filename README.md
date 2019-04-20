@@ -1,0 +1,1 @@
+this is shing's first git project
